@@ -49,7 +49,6 @@ public class MathPuzzleQ05 {
 			List<Integer> sorted = list.stream().sorted().collect(Collectors.toList());
 
 			if (MathPuzzleQ05.pattern.indexOf(sorted) < 0) {
-				System.out.println(MathPuzzleQ05.pattern);
 				MathPuzzleQ05.pattern.add(sorted);
 			}
 		}
