@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"Library()","h":"","u":""},{"l":"someLibraryMethod()","h":"","u":""}]

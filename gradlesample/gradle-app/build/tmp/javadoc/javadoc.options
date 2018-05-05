@@ -1,0 +1,6 @@
+-classpath 'E:\\dev\\sandbox\\gradlesample\\gradle-app\\build\\classes\\java\\main;E:\\dev\\sandbox\\gradlesample\\gradle-app\\build\\resources\\main'
+-d 'E:\\dev\\sandbox\\gradlesample\\gradle-app\\build\\docs\\javadoc'
+-doctitle 'gradle-app API'
+-quiet 
+-windowtitle 'gradle-app API'
+'E:\\dev\\sandbox\\gradlesample\\gradle-app\\src\\main\\java\\Library.java'
